@@ -13,7 +13,7 @@
 
 <p align="center">
  
-  <h1 align="center">I'm Data Scientist 🇮🇳 </p>
+  <h1 align="center">I'm Data Scientist  </p>
   <br clear="both">
 
 <div align="center">
