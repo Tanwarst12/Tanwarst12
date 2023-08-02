@@ -11,12 +11,12 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="200px"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=C21E56&center=true&vCenter=true&width=600&height=100&lines=Data Scientist;+Computer+Science+Engineer;+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=C21E56&center=true&vCenter=true&width=600&height=100&lines=Data Scientist;+Computer+Science+Engineer;+;Always+learning+new+things." alt="Typing SVG" /></a>
 </p>
 
 
 
-## 🌐 Socials
+## 🌐 Socials.
 
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-t-69a241250)   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com) 
  [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar)
