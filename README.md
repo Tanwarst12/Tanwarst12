@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on **Deep Learning Projects.**
 
 - 📝 I’m currently learning **AI: Augmenting Imaginations Everywhere."**
+- Code by code, we're empowering the minds of tomorrow.
 
 
 
